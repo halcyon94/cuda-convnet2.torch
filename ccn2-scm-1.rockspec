@@ -2,7 +2,7 @@ package = "ccn2"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/soumith/cuda-convnet2.torch.git",
+   url = "git://github.com/halcyon94/cuda-convnet2.torch.git",
 }
 
 description = {
